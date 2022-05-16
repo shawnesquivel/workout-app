@@ -5,6 +5,7 @@
 
 ### How to Use It
 1. Click anywhere on the map for the Workout Entry form to appear
+
 ![image](https://user-images.githubusercontent.com/94336773/168515896-073f4901-c425-471f-8da9-e2f5d0d5aade.png)
 
 
