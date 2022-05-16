@@ -16,6 +16,9 @@
 3. Watch your workout get added to the map! It will stay there even if you close the page.
 ![image](https://user-images.githubusercontent.com/94336773/168515838-298e0d65-97fc-4ba4-8f33-3af0f4e602c6.png)
 
+4. Click on any previous workouts in the list to re-focus to that location.
+![image](https://user-images.githubusercontent.com/94336773/168516168-983ca419-4081-4e89-ab53-90f5730cc413.png)
+
 
 ### Technologies Used
 1. JavaScript
