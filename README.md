@@ -5,19 +5,19 @@
 
 ### How to Use It
 1. Click anywhere on the map for the Workout Entry form to appear
-
-
+<br />
   ![image](https://user-images.githubusercontent.com/94336773/168515896-073f4901-c425-471f-8da9-e2f5d0d5aade.png)
 
 
 2. Add your workout details and click submit
+<br />
 ![image](https://user-images.githubusercontent.com/94336773/168515886-bc6251eb-c349-41ca-9564-7c7218f2ddc3.png)
 
 3. Watch your workout get added to the map! It will stay there even if you close the page.
 ![image](https://user-images.githubusercontent.com/94336773/168515838-298e0d65-97fc-4ba4-8f33-3af0f4e602c6.png)
 
 4. Click on any previous workouts in the list to re-focus to that location.
-![image](https://user-images.githubusercontent.com/94336773/168516168-983ca419-4081-4e89-ab53-90f5730cc413.png)
+<br />![image](https://user-images.githubusercontent.com/94336773/168516168-983ca419-4081-4e89-ab53-90f5730cc413.png)
 
 
 ### Technologies Used
