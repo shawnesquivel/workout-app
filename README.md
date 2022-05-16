@@ -1,7 +1,5 @@
-# CRYPTOX - Get the Latest Crypto News!
+# Get Those Gains!
 - Website Link: https://getthosegains.netlify.app/
-- 
-## Project Description
 - Fitness platform that logs workout data onto a map using local storage and the Leaflet API
 - Used object-oriented programming in JavaScript
 
